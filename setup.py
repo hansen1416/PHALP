@@ -27,7 +27,7 @@ setup(
         "av",
         "smplx==0.1.28",
         "numpy",
-        "detectron2 @ git+https://github.com/facebookresearch/detectron2.git",
+        "detectron2 @ git+https://github.com/hansen1416/detectron2.git@a59f05630a8f205756064244bf5beb8661f96180",
         "pytube @ git+https://github.com/pytube/pytube.git",
         "pyopengl @ git+https://github.com/mmatl/pyopengl.git",
         "chumpy @ git+https://github.com/mattloper/chumpy",  # smplx dependency
